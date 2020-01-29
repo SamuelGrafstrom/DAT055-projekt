@@ -8,6 +8,7 @@ import java.awt.geom.Rectangle2D;
 
 @SuppressWarnings({ "serial", "unused" })
 
+//Test
 
 public class GUIwelcome extends JFrame implements ActionListener {
 
@@ -122,3 +123,4 @@ public class GUIwelcome extends JFrame implements ActionListener {
 		
 	} 
 }
+
